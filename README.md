@@ -11,7 +11,7 @@ Huỳnh Vũ Thuận
 ## Cài đặt
 1. Sao chép kho mã nguồn này:
    ```sh
-   git clone https://github.com/HuynhVuThuan189/WebCafeManagement.git
+   git clone https://github.com/HuynhVuThuan189/FLUTTER.git
    ```
 2. Cài đặt các gói phụ thuộc:
    ```sh
